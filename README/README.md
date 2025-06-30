@@ -21,7 +21,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## Connect With Me
+
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jasonreyes1900jr@gmail.com)
 
 ## GitHub Stats
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonreyesn&show_icons=true&theme=radical)
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonreyes&show_icons=true&theme=radical)
